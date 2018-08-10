@@ -1,0 +1,9 @@
+za\co\digitalplatoon\controllres\InvoiceController.class
+za\co\digitalplatoon\services\InvoicesServices.class
+za\co\digitalplatoon\services\LineItemServices.class
+za\co\digitalplatoon\repositories\IlineItemsRepository.class
+za\co\digitalplatoon\BootstrapApplication.class
+za\co\digitalplatoon\repositories\IinvoiesRepository.class
+za\co\digitalplatoon\model\Invoice.class
+za\co\digitalplatoon\Application.class
+za\co\digitalplatoon\model\LineItem.class
